@@ -1,0 +1,251 @@
+body {
+    margin: 0px;
+}
+
+.header {
+    width: 1512px;
+    height: 939px;
+    background-image: url(images4/Rectangle4.png);
+    background-size: cover;
+    padding: 88px 271px;
+    box-sizing: border-box;
+}
+
+.nav {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-right: 23px;
+}
+
+.aboutText {
+    width: 1175px;
+    height: 405px;
+    margin: 117px auto;
+}
+
+.aboutText1 {
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.aboutText2,
+.characterText1 {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.aboutText3 {
+    font-size: 40px;
+    font-weight: 400px;
+}
+
+.aboutText4 {
+    font-weight: 700;
+}
+
+.aboutText5 {
+    color: #E93434;
+}
+
+.secondImg {
+    background-image: url(images4/Rectangle79.png);
+    background-repeat: no-repeat;
+    height: 811px;
+    padding-top: 79px;
+}
+
+.secondImgText {
+    width: 807px;
+    margin-left: 167px;
+    display: inline-block;
+    color: white;
+    letter-spacing: 4px;
+}
+
+.secondImgText1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.secondImgText2,
+.footer-text2 {
+    font-size: 30px;
+    font-weight: 400px;
+}
+
+.phoneImg {
+    display: inline-block;
+    margin-left: 30px;
+    margin-bottom: 113px;
+}
+
+.feelingBore {
+    margin-top: 108px;
+    height: 652px;
+}
+
+.gameChat {
+    float: left;
+    margin-right: 43px;
+}
+
+.boreText {
+    padding-top: 53px;
+}
+
+.boreText1 {
+    display: inline-block;
+    font-size: 50px;
+    font-weight: 600px;
+    height: 97px;
+}
+
+.boreText2 {
+    text-align: justify;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 28px;
+    font-weight: 400;
+    width: 871px;
+    margin-left: 473px;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.characters {
+    margin-top: 68px;
+}
+
+.characterText {
+    width: 1175px;
+    margin: 0px auto;
+}
+
+.characterText2 {
+    margin-left: 45px;
+}
+
+.hero-name {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.heroes-card {
+    width: 520px;
+}
+
+.heroes {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.hero-info {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.elixer,
+.dark-elixer {
+
+    margin-left: 212px;
+    margin-top: 60px;
+    margin-bottom: 48px;
+}
+
+.elixer-troops,
+.dark-elixer-troops {
+    display: flex;
+    justify-content: center;
+}
+
+.elixer-card,
+.dark-elixer-card {
+    width: 360px;
+}
+
+.archer-card,
+.hog_rider-card {
+    margin: 0px 45px;
+}
+
+.elixer-name,
+.dark-elixer-name {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.dark-elixer {
+    margin-left: 212px;
+    margin-top: 50px;
+}
+
+.dark-elixer,
+.elixer,
+.hero-name,
+.characterText2 {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.footer {
+    background-image: url(./images4/footer.png);
+    background-repeat: no-repeat;
+    width: 1512px;
+    height: 790px;
+    padding-top: 147px;
+    margin-top: 100px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.follow {
+    text-transform: uppercase;
+    color: white;
+    margin-top: 26px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.characters img {
+    width: 100%;
+}
+
+.footer-text1 {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.social a {
+    display: inline-block;
+    position: relative;
+    width: min-content;
+    height: 17px;
+    margin-right: 12px;
+    text-decoration: none;
+}
+
+.phone1Img {
+    margin-top: 19px;
+    margin-left: 91px;
+    height: 429px;
+    width: 504px;
+}
+
+.footer-text {
+    width: 750px;
+    margin-left: 167px;
+    color: white;
+    letter-spacing: 4px;
+}
+
+.youtube-triangle {
+    position: absolute;
+    width: 7px;
+    left: 10px;
+    top: 4px;
+}
